@@ -1,4 +1,5 @@
 # SHELL += -x
+DOWNLOAD_DIR = downloads
 
 CXX ?= g++
 CC ?= gcc        # used for sph2pipe
